@@ -6,7 +6,7 @@
     <reg title = {{ $user->name }} subtitle = {{ $user->email}}>
     </reg>
 
-    <md-button> asdasdddddd</md-button>
+    <md-button> sono sul main</md-button>
 
        
    @endforeach
